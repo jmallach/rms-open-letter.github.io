@@ -84,14 +84,12 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Adrienne L. Travis
 1. Adrien "PulkoMandy" Destugues
 1. Advaith Madhukar
-1. Agatha Rose
 1. Akhil Indurti
 1. Alan Ball
 1. Alan Diggs (Schykle)
 1. Alan Pope
 1. Alberto Ruiz (GNOME, Fedora & LibreOffice contributor)
 1. Alex A. G.
-1. Alex Reynolds (BEDOPS and other open-source bioinformatics projects)
 1. Alexander Herzig (Release Manager SUSE Linux Enterprise)
 1. Alexander Jacocks (Red Hat)
 1. Alexander Koderman
@@ -321,7 +319,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Chris Holdgraf (2i2c, Project Jupyter)
 1. Chris Johnson
 1. Chris Koerner (Wikimedia, WordPress)
-1. Chris Petersen (SeaGL Co-Founder)
 1. Chris Riley
 1. Chris Rose
 1. Chris Sienkiewicz
@@ -610,7 +607,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Greg Day
 1. Greg Donald
 1. Greg Grossmeier
-1. Gregory Smith (PostgreSQL, Crunchy Data)
 1. Guilhem Moulin (Debian Developer)
 1. Guillaume Desmottes (Collabora, GStreamer developer)
 1. Guillaume Gay
@@ -666,11 +662,9 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Italo Nicola (Collabora)
 1. Italo Vignoli (OSI Director, LibreItalia Honorary President)
 1. Ivana Kellyérová
-1. J. Eric Ivancich
 1. Jack Firth
 1. Jack 'jrabbit' Laxson
 1. Jack Leadford
-1. Jacob Dreesen
 1. Jacob H. Haven
 1. Jacob Kaplan-Moss (Django co-creator; Founder, Django Software Foundation)
 1. Jacob Perkins
@@ -798,9 +792,9 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Jonathan Moerman
 1. Joni Carr
 1. Jordan Petridis (GNOME)
-1. Jordan T. Thevenow-Harrison
 1. Jordan Uggla
 1. Jordi Gutiérrez Hermoso (GNU Octave maintainer (inactive))
+1. Jordi Mallach (Debian)
 1. Jordin McEachern
 1. Jorge Jara
 1. Jörn Huxhorn
@@ -826,7 +820,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Julia Luna
 1. Julian Andres Klode
 1. Julian Bouzas (Collabora)
-1. Julian Graham (former FSF associate member)
 1. Julian Hofer (GNOME, Deltares)
 1. Julianne "KokaKiwi" Hervier
 1. Julien Cristau (Debian, X.Org, Mozilla)
@@ -846,7 +839,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Justin W. Flory (UNICEF, Fedora Project D&I Advisor)
 1. Kai Ninomiya (Google LLC, W3C editor)
 1. Kaleb Alves
-1. Kamila Szewczyk (`@kspalaiologos`)
 1. Kara "apaleslimghost" Brightwell
 1. Karen Rustad Tölva (former OpenHatch and Students for Free Culture board member)
 1. Karsten Wade (CentOS Board member, former Fedora Board & Docs Lead, the Open Source Way)
@@ -894,7 +886,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Kukuh Syafaat (GNOME, openSUSE)
 1. Kumar Anirudha
 1. Kunal Mehta (MediaWiki, Debian Developer, FSF associate member)
-1. Kurt Garloff (Sovereign Cloud Stack, Open Infrastructure Foundation BoD)
 1. Kushal Das (Tor Project core team, Python Core developer, Fedora Project contributor)
 1. Kyle Mitchell
 1. Kyle Riedemann
@@ -916,7 +907,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. leo60228
 1. Leo Famulari
 1. Liam R. Howlett (kernel developer)
-1. Lilly Winfree (Open Knowledge Foundation)
 1. Lina B (elatelation)
 1. Linda Fernández
 1. Lindsay Holmwood (former Vice President of Linux Australia)
@@ -1271,7 +1261,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Rick Scott
 1. Rigin Oommen
 1. Roan Kattouw
-1. Robbie Harwood (Fedora developer)
 1. Robert Barat
 1. Robert Berg
 1. Robert Foss (Linux kernel dev)
